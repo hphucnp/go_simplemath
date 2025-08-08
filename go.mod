@@ -1,4 +1,4 @@
-module github.com/hphucnp/go_simplemath
+module github.com/hphucnp/go_simplemath/v2
 
 go 1.24.5
 
