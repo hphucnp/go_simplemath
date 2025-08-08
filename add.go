@@ -8,6 +8,6 @@ package gosimplemath
 // This function adds the two parameters together and returns the result.
 // For more information about addition, see:
 // https://www.mathsisfun.com/numbers/addition.html
-func Add[T int](a, b int) int {
+func Add(a, b int) int {
     return a + b
 }
